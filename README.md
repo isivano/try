@@ -1,1 +1,1 @@
-https://isivano.github.io/blueprint-cv/cv
+https://isivano.github.io/try/cv
